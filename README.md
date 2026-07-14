@@ -86,6 +86,7 @@ Transform raw sales data into meaningful business insights using interactive das
 ## 📂 Files Included
 
 - Superstore_Sales_Dashboard.pbix
+- SampleSuperstore.csv
 - Dashboard.png
 - README.md
 
